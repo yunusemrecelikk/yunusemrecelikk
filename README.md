@@ -1,18 +1,5 @@
 <img src="https://flyclipart.com/thumb2/explosion-gif-transparent-transparent-gif-sticker-741584.png" align="left" height="" width="250" />  
   
-
-### <div align="center">I'm Yunus Emre Celik, a full-time Jr. Quality Assurance Engineer 👨‍💻</div>  
-  
-
-- 🏢 I’m currently working for [Testinium](https://testinium.com/)  
-  
-
-- 🌱 I’m always working on improving myself and my skills  
-  
-
-- 📧 Get in contact with me on yunusemre.celik@testinium.com  
-  
-
 <br/>  
 
 ## Connect with me  
